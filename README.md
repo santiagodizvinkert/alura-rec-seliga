@@ -1,4 +1,5 @@
 # alura-rec-seliga
+<!DOCTYPE html>
 
 <h1>Sorbe a Barbearia Alura</h1>
 
